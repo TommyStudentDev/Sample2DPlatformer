@@ -23,8 +23,6 @@ ScriptsOnlyBuild:
     - Cinemachine.CinemachineVirtualCamera
     Unity.InteractiveTutorials.Core.Scripts.dll:
     - SceneObjectGUIDComponent
-    Unity.InteractiveTutorials.Core.dll:
-    - Unity.InteractiveTutorials.AnalyticsHelper
     Unity.Play.Publisher.Editor.dll:
     - Unity.Play.Publisher.Editor.AnalyticsHelper
     Unity.Rider.Editor.dll:
