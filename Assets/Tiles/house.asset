@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: house
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300000, guid: 94e3ad24efa41394381384e2f14d15a2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9811321, g: 0.55998576, b: 0.55998576, a: 1}
   m_Transform:
     e00: 1
     e01: 0
